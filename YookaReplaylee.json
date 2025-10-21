@@ -1,0 +1,244 @@
+{
+  "version": "1.0.0",
+  "game": "YookaReplaylee",
+  "objectives": [
+    {
+      "goal": "Blasto and Blastooie Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "hub",
+        "pagiecollection",
+        "tribal"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase a Tonic from Trowzer",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "purchase",
+        "quills"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Equip a Costume",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "purchase",
+        "quids"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect a quill pagie in any world",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [],
+      "line_categories": [
+        "pagiecollection",
+        "quills"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Open the 15 Pagie Door",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "pagiecollection"
+      ],
+      "tooltip": "Mark upon fadeout after skipping the cutscene",
+      "icons": []
+    },
+    {
+      "goal": "Open the 55 Pagie Door",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "pagiecollection"
+      ],
+      "tooltip": "Mark upon fadeout after skipping the cutscene",
+      "icons": []
+    },
+    {
+      "goal": "Open the 15 Pagie Door",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "pagiecollection"
+      ],
+      "tooltip": "Mark upon fadeout after skipping the cutscene",
+      "icons": []
+    },
+    {
+      "goal": "Defeat a boss with Reaper Laylee equipped",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "long"
+      ],
+      "line_categories": [
+        "boss",
+        "purchase"
+      ],
+      "tooltip": "Mark the goal upon the pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Defeat Capital B",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "long"
+      ],
+      "line_categories": [
+        "hub",
+        "boss"
+      ],
+      "tooltip": "Mark the goal upon the pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Clara Pagies",
+      "range": [
+        2,
+        3
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "tribal",
+        "glitter",
+        "moody",
+        "pagiecollection"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Defeat Planette",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "galleon",
+        "boss",
+        "transformation"
+      ],
+      "tooltip": "Mark the goal upon the pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Defeat INEPT",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "cashino",
+        "boss",
+        "kartos"
+      ],
+      "tooltip": "Mark the goal upon the pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Defeat Trev",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "moody",
+        "boss"
+      ],
+      "tooltip": "Mark the goal upon the pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Defeat Breeze",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "glitter",
+        "boss"
+      ],
+      "tooltip": "Mark the goal upon the pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Defeat Rampo",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "tribal",
+        "boss"
+      ],
+      "tooltip": "Mark the goal upon the pagie count ticking up",
+      "icons": []
+    }
+  ],
+  "limits": {
+    "board": {
+      "rush": 10,
+      "fast": 30,
+      "medium": 60,
+      "slow": 30,
+      "long": 10
+    },
+    "line": {
+      "hub": 25,
+      "tribal": 25,
+      "glitter": 25,
+      "moody": 25,
+      "cashino": 50,
+      "galleon": 50,
+      "rextro": 25,
+      "boss": 25,
+      "kartos": 25,
+      "purchase": 60,
+      "transformation": 25,
+      "pagiecollection": 80,
+      "quills": 25,
+      "quids": 25
+    }
+  }
+}
