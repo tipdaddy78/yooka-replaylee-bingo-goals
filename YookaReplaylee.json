@@ -3,6 +3,281 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "Collect {{X}} Kartos Pagies",
+      "range": [
+        4,
+        5,
+        6
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "maxkartos",
+        "slower"
+      ],
+      "line_categories": [
+        "kartos",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect any Rextro Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "rextro",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 2 Pagies from Unique Rextro Levels",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "pagie",
+        "rextro"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Grrr-apple Glacier Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "galleon",
+        "rextro",
+        "pagie"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Slowflow Tableau",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "cashino",
+        "pagie",
+        "rextro"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Pushy Palms Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "moody",
+        "rextro",
+        "pagie"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Bite 'n Switch Blizzard Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "hub",
+        "rextro",
+        "pagie"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Hot-Hop-Hike Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "hub",
+        "rextro",
+        "pagie"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Dino-Soar Desert Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "hub",
+        "rextro",
+        "pagie"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Snipline Sands Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "glitter",
+        "pagie",
+        "rextro"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Jawsome Jungle Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "tribal",
+        "pagie",
+        "rextro"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Kartos Pagies",
+      "range": [
+        7,
+        8,
+        9
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "maxkartos",
+        "slowest"
+      ],
+      "line_categories": [
+        "kartos",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Galleon Kartos Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower",
+        "maxkartos"
+      ],
+      "line_categories": [
+        "galleon",
+        "kartos"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Cashino Kartos Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower",
+        "maxkartos"
+      ],
+      "line_categories": [
+        "cashino",
+        "kartos",
+        "pagie"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Moody Kartos Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower",
+        "maxkartos"
+      ],
+      "line_categories": [
+        "moody",
+        "kartos",
+        "pagie"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Glitter Kartos Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast",
+        "maxkartos"
+      ],
+      "line_categories": [
+        "glitter",
+        "kartos",
+        "pagie"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Tribal Kartos Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium",
+        "maxkartos"
+      ],
+      "line_categories": [
+        "tribal",
+        "kartos",
+        "pagie"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
       "goal": "Blasto and Blastooie Pagies",
       "range": [],
       "individual_limit": 1,
@@ -11,8 +286,8 @@
       ],
       "line_categories": [
         "hub",
-        "pagiecollection",
-        "tribal"
+        "tribal",
+        "pagie"
       ],
       "tooltip": "",
       "icons": []
@@ -22,7 +297,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "fast"
+        "faster"
       ],
       "line_categories": [
         "purchase",
@@ -36,7 +311,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "fast"
       ],
       "line_categories": [
         "purchase",
@@ -49,10 +324,12 @@
       "goal": "Collect a quill pagie in any world",
       "range": [],
       "individual_limit": 1,
-      "board_categories": [],
+      "board_categories": [
+        "slowest"
+      ],
       "line_categories": [
-        "pagiecollection",
-        "quills"
+        "quills",
+        "pagie"
       ],
       "tooltip": "",
       "icons": []
@@ -62,10 +339,11 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "fast"
+        "medium"
       ],
       "line_categories": [
-        "pagiecollection"
+        "pagie",
+        "hub"
       ],
       "tooltip": "Mark upon fadeout after skipping the cutscene",
       "icons": []
@@ -75,23 +353,25 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "fast"
+        "slowest"
       ],
       "line_categories": [
-        "pagiecollection"
+        "hub",
+        "pagie"
       ],
       "tooltip": "Mark upon fadeout after skipping the cutscene",
       "icons": []
     },
     {
-      "goal": "Open the 15 Pagie Door",
+      "goal": "Open the 35 Pagie Door",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "fast"
+        "slower"
       ],
       "line_categories": [
-        "pagiecollection"
+        "hub",
+        "pagie"
       ],
       "tooltip": "Mark upon fadeout after skipping the cutscene",
       "icons": []
@@ -101,7 +381,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "long"
+        "slow"
       ],
       "line_categories": [
         "boss",
@@ -115,7 +395,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "long"
+        "slow"
       ],
       "line_categories": [
         "hub",
@@ -132,13 +412,13 @@
       ],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "fast"
       ],
       "line_categories": [
         "tribal",
         "glitter",
         "moody",
-        "pagiecollection"
+        "pagie"
       ],
       "tooltip": "",
       "icons": []
@@ -148,7 +428,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "slower"
       ],
       "line_categories": [
         "galleon",
@@ -163,7 +443,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "slower",
+        "maxkartos"
       ],
       "line_categories": [
         "cashino",
@@ -178,7 +459,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "slow"
       ],
       "line_categories": [
         "moody",
@@ -192,7 +473,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "slower"
       ],
       "line_categories": [
         "glitter",
@@ -206,7 +487,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "fast"
+        "medium"
       ],
       "line_categories": [
         "tribal",
@@ -218,11 +499,15 @@
   ],
   "limits": {
     "board": {
-      "rush": 10,
+      "fastest": 10,
+      "faster": 15,
       "fast": 30,
-      "medium": 60,
+      "medium": 45,
       "slow": 30,
-      "long": 10
+      "slower": 15,
+      "slowest": 10,
+      "maxkartos": 10,
+      "maxrextro": 10
     },
     "line": {
       "hub": 25,
@@ -236,9 +521,9 @@
       "kartos": 25,
       "purchase": 60,
       "transformation": 25,
-      "pagiecollection": 80,
       "quills": 25,
-      "quids": 25
+      "quids": 25,
+      "pagie": 80
     }
   }
 }
