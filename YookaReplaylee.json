@@ -3,6 +3,102 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "Collect {{X}} Kartos Pagies",
+      "range": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "long"
+      ],
+      "line_categories": [
+        "kartos",
+        "pagiecollection"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Galleon Kartos Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "long"
+      ],
+      "line_categories": [
+        "galleon",
+        "kartos",
+        "pagiecollection"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Cashino Kartos Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "cashino",
+        "kartos",
+        "pagiecollection"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Moody Kartos Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "long"
+      ],
+      "line_categories": [
+        "moody",
+        "kartos",
+        "pagiecollection"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Glitter Kartos Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "glitter",
+        "kartos",
+        "pagiecollection"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Tribal Kartos Gold Medal Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "tribal",
+        "kartos",
+        "pagiecollection"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
       "goal": "Blasto and Blastooie Pagies",
       "range": [],
       "individual_limit": 1,
