@@ -3,6 +3,23 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "Defeat {{X}} Bosses",
+      "range": [
+        2,
+        3
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest",
+        "maxboss"
+      ],
+      "line_categories": [
+        "boss"
+      ],
+      "tooltip": "Mark the goal upon the pagie count ticking up after your last required boss",
+      "icons": []
+    },
+    {
       "goal": "Collect {{X}} Kartos Pagies",
       "range": [
         4,
@@ -381,7 +398,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "slow",
+        "maxboss"
       ],
       "line_categories": [
         "boss",
@@ -395,7 +413,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "slow",
+        "maxboss"
       ],
       "line_categories": [
         "hub",
@@ -428,7 +447,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slower"
+        "slower",
+        "maxboss"
       ],
       "line_categories": [
         "galleon",
@@ -444,7 +464,8 @@
       "individual_limit": 1,
       "board_categories": [
         "slower",
-        "maxkartos"
+        "maxkartos",
+        "maxboss"
       ],
       "line_categories": [
         "cashino",
@@ -459,7 +480,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "slow",
+        "maxboss"
       ],
       "line_categories": [
         "moody",
@@ -473,7 +495,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slower"
+        "slower",
+        "maxboss"
       ],
       "line_categories": [
         "glitter",
@@ -487,7 +510,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "medium",
+        "maxboss"
       ],
       "line_categories": [
         "tribal",
@@ -507,7 +531,8 @@
       "slower": 15,
       "slowest": 10,
       "maxkartos": 10,
-      "maxrextro": 10
+      "maxrextro": 10,
+      "maxboss": 100
     },
     "line": {
       "hub": 25,
