@@ -3,6 +3,146 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "Collect 3 Pagies from Trolleys",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "moody",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 10 Tokens from Bandits",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "cashino",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "All Shipwreck Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "hub",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 30 Hub Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "hub",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 10 Hub Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "hub",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 20 Pagies in Galleon",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "galleon",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Hand in 80 Cashino Tokens at Once",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "pagie",
+        "cashino"
+      ],
+      "tooltip": "Mark upon the last token being converted to a Pagie",
+      "icons": []
+    },
+    {
+      "goal": "Collect 20 Pagies in Moody",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "moody",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 20 Pagies in Glitter",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "glitter",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 20 Pagies in Tribal",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "tribal",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
       "goal": "Collect 6 Pagies in Icymetric Palace",
       "range": [],
       "individual_limit": 1,
@@ -1518,7 +1658,7 @@
       "transformation": 25,
       "quills": 25,
       "quids": 25,
-      "pagie": 80,
+      "pagie": 100,
       "ghost": 50
     }
   }
