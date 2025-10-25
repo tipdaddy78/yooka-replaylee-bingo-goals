@@ -3,6 +3,837 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "Collect 6 Pagies in Icymetric Palace",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower",
+        "maxboss"
+      ],
+      "line_categories": [
+        "glitter",
+        "boss",
+        "pagie"
+      ],
+      "tooltip": "Breeze does count as 3 ",
+      "icons": []
+    },
+    {
+      "goal": "Equip the Inept Glasses",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "galleon",
+        "purchase",
+        "quids"
+      ],
+      "tooltip": "Unlocked by speaking to the Proto Inept in Galleon",
+      "icons": []
+    },
+    {
+      "goal": "Speak to Shovel Knight while wearing his Costume",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "tribal",
+        "purchase",
+        "quids"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Defeat an Enemy Using the Superhero Landing Tonic",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "purchase",
+        "quids"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Enter Galleon",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "hub",
+        "galleon"
+      ],
+      "tooltip": "Mark upon the fadeout as you enter the book",
+      "icons": []
+    },
+    {
+      "goal": "Die using the Fall Damage Tonic",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "purchase",
+        "quids"
+      ],
+      "tooltip": "Mark on the fadeout after the death",
+      "icons": []
+    },
+    {
+      "goal": "Nimble Icy Race ",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "tribal",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect any Hamalot Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "Tribal, Cashino, or Galleon",
+      "icons": []
+    },
+    {
+      "goal": "Collect all 5 Snowmen Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "glitter",
+        "transformation",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Quiz Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "glitter",
+        "pagie"
+      ],
+      "tooltip": "Found in Icymetric Palace",
+      "icons": []
+    },
+    {
+      "goal": "Hold on to 2000 Quids at once",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "quids"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase {{X}} Tonics",
+      "range": [
+        3,
+        4,
+        5
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "purchase",
+        "quills",
+        "quids"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase {{X}} Health Extenders",
+      "range": [
+        2,
+        3
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "quills",
+        "purchase"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase {{X}} Energy Extenders",
+      "range": [
+        2,
+        3
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "purchase",
+        "quills"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase 3 Cosmetics ",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "purchase",
+        "quids",
+        "quills"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Equip {{X}} Tonics at once",
+      "range": [
+        3,
+        4
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "purchase",
+        "quids",
+        "quills"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase 2 Items from Trowzer in Tribal",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "tribal",
+        "purchase",
+        "quills"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase 2 Items from Trowzer in Glitter",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "purchase",
+        "quills",
+        "glitter"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase 2 Items from Trowzer in Moody",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "purchase",
+        "quills",
+        "moody"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase 2 Items from Trowzer in Cashino",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "purchase",
+        "quills",
+        "cashino"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase 2 Items from Trowzer in Galleon",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "purchase",
+        "quills",
+        "galleon"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 200 Total Quills",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "quills"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Pagies from Unique Transformations",
+      "range": [
+        2,
+        3
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "transformation",
+        "pagie"
+      ],
+      "tooltip": "Helicopter Tokens count only after you cash them in for the pagie",
+      "icons": []
+    },
+    {
+      "goal": "Any Pagie with Boat Transformation",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "galleon",
+        "transformation",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 5 Tokens from Slots as Helicopter Transformation",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "cashino",
+        "pagie",
+        "transformation"
+      ],
+      "tooltip": "The breakable yellow slot machines",
+      "icons": []
+    },
+    {
+      "goal": "Collect 2 Pagies from the Shoal Transformation",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "transformation",
+        "pagie",
+        "moody"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 2 Pagies from Snow Plow Transformation",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "transformation",
+        "glitter",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Flower Transformation Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "faster"
+      ],
+      "line_categories": [
+        "tribal",
+        "transformation",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect Any Triple Pagie from Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect All Pink Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect 3 Pink Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect All Yellow Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect 3 Yellow Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect All Green Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect 3 Green Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect all Blue Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect 3 Blue Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect All Red Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect 3 Red Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect all Mollycools",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Mollycools",
+      "range": [
+        2,
+        3
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect all Pirate Treasures",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Pirate Treasures",
+      "range": [
+        2,
+        3
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} total Pagie Pieces",
+      "range": [
+        18,
+        20,
+        22,
+        24
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect all Pagie Pieces in Galleon",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "galleon",
+        "pagie"
+      ],
+      "tooltip": "Mark when the pagie count ticks up after the eighth piece",
+      "icons": []
+    },
+    {
+      "goal": "Collect all Pagie Pieces in Cashino",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "cashino"
+      ],
+      "tooltip": "Mark when the pagie count ticks up after the eighth piece",
+      "icons": []
+    },
+    {
+      "goal": "Collect all Pagie Pieces in Moody",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "moody",
+        "pagie"
+      ],
+      "tooltip": "Mark when the pagie count ticks up after the eighth piece",
+      "icons": []
+    },
+    {
+      "goal": "Collect all Pagie Pieces in Glitter",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "glitter",
+        "pagie"
+      ],
+      "tooltip": "Mark when the pagie count ticks up after the eighth piece",
+      "icons": []
+    },
+    {
+      "goal": "Collect all Pagie Pieces in Tribal",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "tribal",
+        "pagie"
+      ],
+      "tooltip": "Mark when the pagie count ticks up after the eighth piece",
+      "icons": []
+    },
+    {
+      "goal": "Collect 4 Pagies that each require a different Slurp Shot",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "faster"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "Bomb/Fire/Water/Ice",
+      "icons": []
+    },
+    {
+      "goal": "Use all 6 slurp state once",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "galleon"
+      ],
+      "tooltip": "Galleon has all of them. Flight/Shield/Battery/Heat/Heavy/Light",
+      "icons": []
+    },
+    {
+      "goal": "Unlock all 7 Marks in Galleon",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "galleon"
+      ],
+      "tooltip": "Mark as soon as map closes after dialogue",
+      "icons": []
+    },
+    {
+      "goal": "Unlock all 4 Marks in Cashino",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "cashino"
+      ],
+      "tooltip": "Mark as soon as map closes after dialogue",
+      "icons": []
+    },
+    {
+      "goal": "Unlock all 6 Marks in Moody",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "faster"
+      ],
+      "line_categories": [
+        "moody"
+      ],
+      "tooltip": "Mark as soon as map closes after dialogue",
+      "icons": []
+    },
+    {
+      "goal": "Unlock all 5 Marks in Glitter",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "glitter"
+      ],
+      "tooltip": "Mark as soon as map closes after dialogue",
+      "icons": []
+    },
+    {
+      "goal": "Unlock all 7 Marks in Tribal",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "faster"
+      ],
+      "line_categories": [
+        "tribal"
+      ],
+      "tooltip": "Mark as soon as map closes after dialogue",
+      "icons": []
+    },
+    {
+      "goal": "Unlock all 8 Marks in Hivory Towers",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "hub"
+      ],
+      "tooltip": "Mark as soon as map closes after dialogue",
+      "icons": []
+    },
+    {
+      "goal": "Unlock Mark in Shipwreck",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "hub"
+      ],
+      "tooltip": "Mark as soon as map closes after dialogue",
+      "icons": []
+    },
+    {
       "goal": "Collect all 5 Play Coins",
       "range": [],
       "individual_limit": 1,
@@ -687,7 +1518,8 @@
       "transformation": 25,
       "quills": 25,
       "quids": 25,
-      "pagie": 80
+      "pagie": 80,
+      "ghost": 50
     }
   }
 }
