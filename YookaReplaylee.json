@@ -3,6 +3,145 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "Collect all 5 Play Coins",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect a Play Coin",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Hoop Race Pagies",
+      "range": [
+        3,
+        4,
+        5
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Blue Ring Pagies",
+      "range": [
+        3,
+        4
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Green Coin Pagies",
+      "range": [
+        5,
+        6
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Red Coin Pagies",
+      "range": [
+        4,
+        5
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect a Hoop Race Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 2 Green Coin Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect a Blue Ring Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 2 Red Coin Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
       "goal": "Defeat {{X}} Bosses",
       "range": [
         2,
