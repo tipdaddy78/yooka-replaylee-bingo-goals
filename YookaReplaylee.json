@@ -1041,7 +1041,8 @@
         "medium"
       ],
       "line_categories": [
-        "pagie"
+        "pagie",
+        "rgb"
       ],
       "tooltip": "",
       "icons": []
@@ -1057,7 +1058,8 @@
         "medium"
       ],
       "line_categories": [
-        "pagie"
+        "pagie",
+        "rgb"
       ],
       "tooltip": "",
       "icons": []
@@ -1073,7 +1075,8 @@
         "medium"
       ],
       "line_categories": [
-        "pagie"
+        "pagie",
+        "rgb"
       ],
       "tooltip": "",
       "icons": []
@@ -1099,7 +1102,8 @@
         "fastest"
       ],
       "line_categories": [
-        "pagie"
+        "pagie",
+        "rgb"
       ],
       "tooltip": "",
       "icons": []
@@ -1112,7 +1116,8 @@
         "fastest"
       ],
       "line_categories": [
-        "pagie"
+        "pagie",
+        "rgb"
       ],
       "tooltip": "",
       "icons": []
@@ -1125,7 +1130,8 @@
         "fastest"
       ],
       "line_categories": [
-        "pagie"
+        "pagie",
+        "rgb"
       ],
       "tooltip": "",
       "icons": []
@@ -1651,9 +1657,9 @@
   ],
   "limits": {
     "board": {
-      "fastest": 10,
-      "faster": 15,
-      "fast": 25,
+      "fastest": 8,
+      "faster": 10,
+      "fast": 22,
       "medium": 45,
       "slow": 25,
       "slower": 15,
@@ -1679,7 +1685,8 @@
       "pagie": 80,
       "ghost": 50,
       "collectible": 50,
-      "mark": 25
+      "mark": 25,
+      "rgb": 25
     }
   }
 }
