@@ -726,7 +726,9 @@
       "board_categories": [
         "slowest"
       ],
-      "line_categories": [],
+      "line_categories": [
+        "collectible"
+      ],
       "tooltip": "",
       "icons": []
     },
@@ -740,7 +742,9 @@
       "board_categories": [
         "fast"
       ],
-      "line_categories": [],
+      "line_categories": [
+        "collectible"
+      ],
       "tooltip": "",
       "icons": []
     },
@@ -751,7 +755,9 @@
       "board_categories": [
         "slowest"
       ],
-      "line_categories": [],
+      "line_categories": [
+        "collectible"
+      ],
       "tooltip": "",
       "icons": []
     },
@@ -765,7 +771,9 @@
       "board_categories": [
         "medium"
       ],
-      "line_categories": [],
+      "line_categories": [
+        "collectible"
+      ],
       "tooltip": "",
       "icons": []
     },
@@ -890,7 +898,8 @@
         "slow"
       ],
       "line_categories": [
-        "galleon"
+        "galleon",
+        "mark"
       ],
       "tooltip": "Mark as soon as map closes after dialogue",
       "icons": []
@@ -903,7 +912,8 @@
         "fastest"
       ],
       "line_categories": [
-        "cashino"
+        "cashino",
+        "mark"
       ],
       "tooltip": "Mark as soon as map closes after dialogue",
       "icons": []
@@ -916,7 +926,8 @@
         "faster"
       ],
       "line_categories": [
-        "moody"
+        "moody",
+        "mark"
       ],
       "tooltip": "Mark as soon as map closes after dialogue",
       "icons": []
@@ -929,7 +940,8 @@
         "fastest"
       ],
       "line_categories": [
-        "glitter"
+        "glitter",
+        "mark"
       ],
       "tooltip": "Mark as soon as map closes after dialogue",
       "icons": []
@@ -942,7 +954,8 @@
         "faster"
       ],
       "line_categories": [
-        "tribal"
+        "tribal",
+        "mark"
       ],
       "tooltip": "Mark as soon as map closes after dialogue",
       "icons": []
@@ -952,10 +965,11 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "medium"
       ],
       "line_categories": [
-        "hub"
+        "hub",
+        "mark"
       ],
       "tooltip": "Mark as soon as map closes after dialogue",
       "icons": []
@@ -980,7 +994,9 @@
       "board_categories": [
         "slowest"
       ],
-      "line_categories": [],
+      "line_categories": [
+        "collectible"
+      ],
       "tooltip": "",
       "icons": []
     },
@@ -991,7 +1007,9 @@
       "board_categories": [
         "fastest"
       ],
-      "line_categories": [],
+      "line_categories": [
+        "collectible"
+      ],
       "tooltip": "",
       "icons": []
     },
@@ -1635,9 +1653,9 @@
     "board": {
       "fastest": 10,
       "faster": 15,
-      "fast": 30,
+      "fast": 25,
       "medium": 45,
-      "slow": 30,
+      "slow": 25,
       "slower": 15,
       "slowest": 10,
       "maxkartos": 10,
@@ -1649,17 +1667,19 @@
       "tribal": 25,
       "glitter": 25,
       "moody": 25,
-      "cashino": 50,
+      "cashino": 25,
       "galleon": 50,
       "rextro": 25,
       "boss": 25,
       "kartos": 25,
-      "purchase": 60,
+      "purchase": 50,
       "transformation": 25,
       "quills": 25,
       "quids": 25,
-      "pagie": 100,
-      "ghost": 50
+      "pagie": 80,
+      "ghost": 50,
+      "collectible": 50,
+      "mark": 25
     }
   }
 }
