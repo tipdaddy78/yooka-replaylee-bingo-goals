@@ -461,7 +461,7 @@
       "icons": []
     },
     {
-      "goal": "Purchase 2 Items from Trowzer in Tribal",
+      "goal": "Purchase 2 Items Using Tribal Quills",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -476,7 +476,7 @@
       "icons": []
     },
     {
-      "goal": "Purchase 2 Items from Trowzer in Glitter",
+      "goal": "Purchase 2 Items using Glitter Quills",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -491,7 +491,7 @@
       "icons": []
     },
     {
-      "goal": "Purchase 2 Items from Trowzer in Moody",
+      "goal": "Purchase 2 Items using Moody Quills",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -506,7 +506,7 @@
       "icons": []
     },
     {
-      "goal": "Purchase 2 Items from Trowzer in Cashino",
+      "goal": "Purchase 2 Items using Cashino Quills",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -521,7 +521,7 @@
       "icons": []
     },
     {
-      "goal": "Purchase 2 Items from Trowzer in Galleon",
+      "goal": "Purchase 2 Items using Galleon Quills",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
