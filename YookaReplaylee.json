@@ -3,16 +3,1344 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "Collect 3 Pagies from Trolleys",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "moody",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 10 Tokens from Bandits",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "cashino",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "All Shipwreck Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "hub",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 30 Hub Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "hub",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 10 Hub Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "hub",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 20 Pagies in Galleon",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "galleon",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Hand in 80 Cashino Tokens at Once",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "pagie",
+        "cashino"
+      ],
+      "tooltip": "Mark upon the last token being converted to a Pagie",
+      "icons": []
+    },
+    {
+      "goal": "Collect 20 Pagies in Moody",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "moody",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 20 Pagies in Glitter",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "glitter",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 20 Pagies in Tribal",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "tribal",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 6 Pagies in Icymetric Palace",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower",
+        "maxboss"
+      ],
+      "line_categories": [
+        "glitter",
+        "boss",
+        "pagie"
+      ],
+      "tooltip": "Breeze does count as 3 ",
+      "icons": []
+    },
+    {
+      "goal": "Equip the Inept Glasses",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "galleon",
+        "purchase",
+        "quids"
+      ],
+      "tooltip": "Unlocked by speaking to the Proto Inept in Galleon",
+      "icons": []
+    },
+    {
+      "goal": "Speak to Shovel Knight while wearing his Costume",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "tribal",
+        "purchase",
+        "quids"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Defeat an Enemy Using the Superhero Landing Tonic",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "purchase",
+        "quids"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Enter Galleon",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "hub",
+        "galleon"
+      ],
+      "tooltip": "Mark upon the fadeout as you enter the book",
+      "icons": []
+    },
+    {
+      "goal": "Die using the Fall Damage Tonic",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "purchase",
+        "quids"
+      ],
+      "tooltip": "Mark on the fadeout after the death",
+      "icons": []
+    },
+    {
+      "goal": "Nimble Icy Race ",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "tribal",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect any Hamalot Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "Tribal, Cashino, or Galleon",
+      "icons": []
+    },
+    {
+      "goal": "Collect all 5 Snowmen Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "glitter",
+        "transformation",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Quiz Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "glitter",
+        "pagie"
+      ],
+      "tooltip": "Found in Icymetric Palace",
+      "icons": []
+    },
+    {
+      "goal": "Hold on to 2000 Quids at once",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "quids"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase {{X}} Tonics",
+      "range": [
+        3,
+        4,
+        5
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "purchase",
+        "quills",
+        "quids"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase {{X}} Health Extenders",
+      "range": [
+        2,
+        3
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "quills",
+        "purchase"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase {{X}} Energy Extenders",
+      "range": [
+        2,
+        3
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "purchase",
+        "quills"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase 3 Cosmetics ",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "purchase",
+        "quids",
+        "quills"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Equip {{X}} Tonics at once",
+      "range": [
+        3,
+        4
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "purchase",
+        "quids",
+        "quills"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase 2 Items from Trowzer in Tribal",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "tribal",
+        "purchase",
+        "quills"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase 2 Items from Trowzer in Glitter",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "purchase",
+        "quills",
+        "glitter"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase 2 Items from Trowzer in Moody",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "purchase",
+        "quills",
+        "moody"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase 2 Items from Trowzer in Cashino",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "purchase",
+        "quills",
+        "cashino"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase 2 Items from Trowzer in Galleon",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "purchase",
+        "quills",
+        "galleon"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 200 Total Quills",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "quills"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Pagies from Unique Transformations",
+      "range": [
+        2,
+        3
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "transformation",
+        "pagie"
+      ],
+      "tooltip": "Helicopter Tokens count only after you cash them in for the pagie",
+      "icons": []
+    },
+    {
+      "goal": "Any Pagie with Boat Transformation",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "galleon",
+        "transformation",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 5 Tokens from Slots as Helicopter Transformation",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "cashino",
+        "pagie",
+        "transformation"
+      ],
+      "tooltip": "The breakable yellow slot machines",
+      "icons": []
+    },
+    {
+      "goal": "Collect 2 Pagies from the Shoal Transformation",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "transformation",
+        "pagie",
+        "moody"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 2 Pagies from Snow Plow Transformation",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "transformation",
+        "glitter",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Flower Transformation Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "faster"
+      ],
+      "line_categories": [
+        "tribal",
+        "transformation",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect Any Triple Pagie from Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect All Pink Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect 3 Pink Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect All Yellow Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect 3 Yellow Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect All Green Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect 3 Green Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect all Blue Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect 3 Blue Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect All Red Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect 3 Red Ghosts",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "pagie",
+        "ghost"
+      ],
+      "tooltip": "Mark upon pagie count ticking up",
+      "icons": []
+    },
+    {
+      "goal": "Collect all Mollycools",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "collectible"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Mollycools",
+      "range": [
+        2,
+        3
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "collectible"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect all Pirate Treasures",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "collectible"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Pirate Treasures",
+      "range": [
+        2,
+        3
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "collectible"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} total Pagie Pieces",
+      "range": [
+        18,
+        20,
+        22,
+        24
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect all Pagie Pieces in Galleon",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "galleon",
+        "pagie"
+      ],
+      "tooltip": "Mark when the pagie count ticks up after the eighth piece",
+      "icons": []
+    },
+    {
+      "goal": "Collect all Pagie Pieces in Cashino",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "cashino"
+      ],
+      "tooltip": "Mark when the pagie count ticks up after the eighth piece",
+      "icons": []
+    },
+    {
+      "goal": "Collect all Pagie Pieces in Moody",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "moody",
+        "pagie"
+      ],
+      "tooltip": "Mark when the pagie count ticks up after the eighth piece",
+      "icons": []
+    },
+    {
+      "goal": "Collect all Pagie Pieces in Glitter",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower"
+      ],
+      "line_categories": [
+        "glitter",
+        "pagie"
+      ],
+      "tooltip": "Mark when the pagie count ticks up after the eighth piece",
+      "icons": []
+    },
+    {
+      "goal": "Collect all Pagie Pieces in Tribal",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "tribal",
+        "pagie"
+      ],
+      "tooltip": "Mark when the pagie count ticks up after the eighth piece",
+      "icons": []
+    },
+    {
+      "goal": "Collect 4 Pagies that each require a different Slurp Shot",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "faster"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "Bomb/Fire/Water/Ice",
+      "icons": []
+    },
+    {
+      "goal": "Use all 6 slurp state once",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "galleon"
+      ],
+      "tooltip": "Galleon has all of them. Flight/Shield/Battery/Heat/Heavy/Light",
+      "icons": []
+    },
+    {
+      "goal": "Unlock all 7 Marks in Galleon",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "galleon",
+        "mark"
+      ],
+      "tooltip": "Mark as soon as map closes after dialogue",
+      "icons": []
+    },
+    {
+      "goal": "Unlock all 4 Marks in Cashino",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "cashino",
+        "mark"
+      ],
+      "tooltip": "Mark as soon as map closes after dialogue",
+      "icons": []
+    },
+    {
+      "goal": "Unlock all 6 Marks in Moody",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "faster"
+      ],
+      "line_categories": [
+        "moody",
+        "mark"
+      ],
+      "tooltip": "Mark as soon as map closes after dialogue",
+      "icons": []
+    },
+    {
+      "goal": "Unlock all 5 Marks in Glitter",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "glitter",
+        "mark"
+      ],
+      "tooltip": "Mark as soon as map closes after dialogue",
+      "icons": []
+    },
+    {
+      "goal": "Unlock all 7 Marks in Tribal",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "faster"
+      ],
+      "line_categories": [
+        "tribal",
+        "mark"
+      ],
+      "tooltip": "Mark as soon as map closes after dialogue",
+      "icons": []
+    },
+    {
+      "goal": "Unlock all 8 Marks in Hivory Towers",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "hub",
+        "mark"
+      ],
+      "tooltip": "Mark as soon as map closes after dialogue",
+      "icons": []
+    },
+    {
+      "goal": "Unlock Mark in Shipwreck",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "hub"
+      ],
+      "tooltip": "Mark as soon as map closes after dialogue",
+      "icons": []
+    },
+    {
+      "goal": "Collect all 5 Play Coins",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "collectible"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect a Play Coin",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "collectible"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Hoop Race Pagies",
+      "range": [
+        3,
+        4,
+        5
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Blue Ring Pagies",
+      "range": [
+        3,
+        4
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "pagie",
+        "rgb"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Green Coin Pagies",
+      "range": [
+        5,
+        6
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "pagie",
+        "rgb"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Red Coin Pagies",
+      "range": [
+        4,
+        5
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "pagie",
+        "rgb"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect a Hoop Race Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 2 Green Coin Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "pagie",
+        "rgb"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect a Blue Ring Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "pagie",
+        "rgb"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 2 Red Coin Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "pagie",
+        "rgb"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Defeat {{X}} Bosses",
+      "range": [
+        2,
+        3
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest",
+        "maxboss"
+      ],
+      "line_categories": [
+        "boss"
+      ],
+      "tooltip": "Mark the goal upon the pagie count ticking up after your last required boss",
+      "icons": []
+    },
+    {
       "goal": "Collect {{X}} Kartos Pagies",
       "range": [
-        6,
+        4,
+        5,
+        6
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "maxkartos",
+        "slower"
+      ],
+      "line_categories": [
+        "kartos",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect any Rextro Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "rextro",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 2 Pagies from Unique Rextro Levels",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "pagie",
+        "rextro"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Grrr-apple Glacier Gold Medal Pagie (GGx)",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "galleon",
+        "rextro",
+        "pagie"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Slowflow Tableau (CC)",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slower",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "cashino",
+        "pagie",
+        "rextro"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Pushy Palms Gold Medal Pagie (MM)",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "moody",
+        "rextro",
+        "pagie"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Bite 'n Switch Blizzard Gold Medal Pagie (HT)",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "hub",
+        "rextro",
+        "pagie"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Hot-Hop-Hike Gold Medal Pagie (HT)",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "hub",
+        "rextro",
+        "pagie"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Dino-Soar Desert Gold Medal Pagie (HT)",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "hub",
+        "rextro",
+        "pagie"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Snipline Sands Gold Medal Pagie (GGG)",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "glitter",
+        "pagie",
+        "rextro"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Jawsome Jungle Gold Medal Pagie (TT)",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "tribal",
+        "pagie",
+        "rextro"
+      ],
+      "tooltip": "Mark on collecting the last of the three pagies",
+      "icons": []
+    },
+    {
+      "goal": "Collect {{X}} Kartos Pagies",
+      "range": [
         7,
         8,
         9
       ],
       "individual_limit": 1,
       "board_categories": [
-        "slower"
+        "maxkartos",
+        "slowest"
       ],
       "line_categories": [
         "kartos",
@@ -26,13 +1354,14 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slower"
+        "slower",
+        "maxkartos"
       ],
       "line_categories": [
         "galleon",
         "kartos"
       ],
-      "tooltip": "",
+      "tooltip": "Mark on collecting the last of the three pagies",
       "icons": []
     },
     {
@@ -40,14 +1369,15 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slower"
+        "slower",
+        "maxkartos"
       ],
       "line_categories": [
         "cashino",
         "kartos",
         "pagie"
       ],
-      "tooltip": "",
+      "tooltip": "Mark on collecting the last of the three pagies",
       "icons": []
     },
     {
@@ -55,14 +1385,15 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slower"
+        "slower",
+        "maxkartos"
       ],
       "line_categories": [
         "moody",
         "kartos",
         "pagie"
       ],
-      "tooltip": "",
+      "tooltip": "Mark on collecting the last of the three pagies",
       "icons": []
     },
     {
@@ -70,14 +1401,15 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "fast"
+        "fast",
+        "maxkartos"
       ],
       "line_categories": [
         "glitter",
         "kartos",
         "pagie"
       ],
-      "tooltip": "",
+      "tooltip": "Mark on collecting the last of the three pagies",
       "icons": []
     },
     {
@@ -85,14 +1417,15 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "medium",
+        "maxkartos"
       ],
       "line_categories": [
         "tribal",
         "kartos",
         "pagie"
       ],
-      "tooltip": "",
+      "tooltip": "Mark on collecting the last of the three pagies",
       "icons": []
     },
     {
@@ -129,7 +1462,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "fast"
       ],
       "line_categories": [
         "purchase",
@@ -199,7 +1532,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "slow",
+        "maxboss"
       ],
       "line_categories": [
         "boss",
@@ -213,7 +1547,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "slow",
+        "maxboss"
       ],
       "line_categories": [
         "hub",
@@ -230,7 +1565,7 @@
       ],
       "individual_limit": 1,
       "board_categories": [
-        "faster"
+        "fast"
       ],
       "line_categories": [
         "tribal",
@@ -246,7 +1581,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slower"
+        "slower",
+        "maxboss"
       ],
       "line_categories": [
         "galleon",
@@ -261,7 +1597,9 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slower"
+        "slower",
+        "maxkartos",
+        "maxboss"
       ],
       "line_categories": [
         "cashino",
@@ -276,7 +1614,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "slow",
+        "maxboss"
       ],
       "line_categories": [
         "moody",
@@ -290,7 +1629,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slower"
+        "slower",
+        "maxboss"
       ],
       "line_categories": [
         "glitter",
@@ -304,7 +1644,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "medium",
+        "maxboss"
       ],
       "line_categories": [
         "tribal",
@@ -316,29 +1657,36 @@
   ],
   "limits": {
     "board": {
-      "fastest": 10,
-      "faster": 15,
-      "fast": 30,
+      "fastest": 8,
+      "faster": 10,
+      "fast": 22,
       "medium": 45,
-      "slow": 30,
+      "slow": 25,
       "slower": 15,
-      "slowest": 10
+      "slowest": 10,
+      "maxkartos": 10,
+      "maxrextro": 10,
+      "maxboss": 100
     },
     "line": {
       "hub": 25,
       "tribal": 25,
       "glitter": 25,
       "moody": 25,
-      "cashino": 50,
+      "cashino": 25,
       "galleon": 50,
       "rextro": 25,
       "boss": 25,
       "kartos": 25,
-      "purchase": 60,
+      "purchase": 50,
       "transformation": 25,
       "quills": 25,
       "quids": 25,
-      "pagie": 80
+      "pagie": 80,
+      "ghost": 50,
+      "collectible": 50,
+      "mark": 25,
+      "rgb": 25
     }
   }
 }
