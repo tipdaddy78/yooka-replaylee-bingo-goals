@@ -666,7 +666,7 @@
         "ghost",
         "transformation"
       ],
-      "tooltip": "Mark upon pagie count ticking up",
+      "tooltip": "",
       "icons": []
     },
     {
@@ -680,7 +680,7 @@
         "pagie",
         "ghost"
       ],
-      "tooltip": "Mark upon pagie count ticking up",
+      "tooltip": "",
       "icons": []
     },
     {
@@ -694,7 +694,7 @@
         "pagie",
         "ghost"
       ],
-      "tooltip": "Mark upon pagie count ticking up",
+      "tooltip": "",
       "icons": []
     },
     {
@@ -708,7 +708,7 @@
         "pagie",
         "ghost"
       ],
-      "tooltip": "Mark upon pagie count ticking up",
+      "tooltip": "",
       "icons": []
     },
     {
@@ -722,7 +722,7 @@
         "pagie",
         "ghost"
       ],
-      "tooltip": "Mark upon pagie count ticking up",
+      "tooltip": "",
       "icons": []
     },
     {
@@ -736,7 +736,7 @@
         "pagie",
         "ghost"
       ],
-      "tooltip": "Mark upon pagie count ticking up",
+      "tooltip": "",
       "icons": []
     },
     {
@@ -750,7 +750,7 @@
         "pagie",
         "ghost"
       ],
-      "tooltip": "Mark upon pagie count ticking up",
+      "tooltip": "",
       "icons": []
     },
     {
@@ -764,7 +764,7 @@
         "pagie",
         "ghost"
       ],
-      "tooltip": "Mark upon pagie count ticking up",
+      "tooltip": "",
       "icons": []
     },
     {
@@ -778,7 +778,7 @@
         "pagie",
         "ghost"
       ],
-      "tooltip": "Mark upon pagie count ticking up",
+      "tooltip": "",
       "icons": []
     },
     {
@@ -792,7 +792,7 @@
         "pagie",
         "ghost"
       ],
-      "tooltip": "Mark upon pagie count ticking up",
+      "tooltip": "",
       "icons": []
     },
     {
@@ -884,7 +884,7 @@
         "pagie",
         "pieces"
       ],
-      "tooltip": "Mark when the pagie count ticks up after the eighth piece",
+      "tooltip": "",
       "icons": []
     },
     {
@@ -899,7 +899,7 @@
         "pieces",
         "pagie"
       ],
-      "tooltip": "Mark when the pagie count ticks up after the eighth piece",
+      "tooltip": "",
       "icons": []
     },
     {
@@ -914,7 +914,7 @@
         "pagie",
         "pieces"
       ],
-      "tooltip": "Mark when the pagie count ticks up after the eighth piece",
+      "tooltip": "",
       "icons": []
     },
     {
@@ -929,7 +929,7 @@
         "pagie",
         "pieces"
       ],
-      "tooltip": "Mark when the pagie count ticks up after the eighth piece",
+      "tooltip": "",
       "icons": []
     },
     {
@@ -944,7 +944,7 @@
         "pagie",
         "pieces"
       ],
-      "tooltip": "Mark when the pagie count ticks up after the eighth piece",
+      "tooltip": "",
       "icons": []
     },
     {
@@ -1235,7 +1235,7 @@
       "line_categories": [
         "boss"
       ],
-      "tooltip": "Mark the goal upon the pagie count ticking up after your last required boss",
+      "tooltip": "You must pick up the triple pagies to consider the boss defeated ",
       "icons": []
     },
     {
@@ -1625,7 +1625,7 @@
         "boss",
         "purchase"
       ],
-      "tooltip": "Mark the goal upon the pagie count ticking up",
+      "tooltip": "You must pick up the triple pagie to consider the boss defeated ",
       "icons": []
     },
     {
@@ -1675,7 +1675,7 @@
         "boss",
         "transformation"
       ],
-      "tooltip": "Mark the goal upon the pagie count ticking up",
+      "tooltip": "You must pick up the triple pagie to consider the boss defeated ",
       "icons": []
     },
     {
@@ -1692,7 +1692,7 @@
         "boss",
         "kartos"
       ],
-      "tooltip": "Mark the goal upon the pagie count ticking up",
+      "tooltip": "You must pick up the triple pagie to consider the boss defeated ",
       "icons": []
     },
     {
@@ -1707,7 +1707,7 @@
         "moody",
         "boss"
       ],
-      "tooltip": "Mark the goal upon the pagie count ticking up",
+      "tooltip": "You must pick up the triple pagie to consider the boss defeated ",
       "icons": []
     },
     {
@@ -1722,7 +1722,7 @@
         "glitter",
         "boss"
       ],
-      "tooltip": "Mark the goal upon the pagie count ticking up",
+      "tooltip": "You must pick up the triple pagie to consider the boss defeated ",
       "icons": []
     },
     {
@@ -1737,7 +1737,7 @@
         "tribal",
         "boss"
       ],
-      "tooltip": "Mark the goal upon the pagie count ticking up",
+      "tooltip": "You must pick up the triple pagie to consider the boss defeated ",
       "icons": []
     }
   ],
