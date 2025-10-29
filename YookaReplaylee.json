@@ -3,6 +3,96 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "Collect 15 Rextro Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowester",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "rextro",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect All 25 Ghost Writers",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowester"
+      ],
+      "line_categories": [
+        "ghost",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase all Health and Energy Extenders",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowester"
+      ],
+      "line_categories": [
+        "purchase",
+        "quills"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Defeat All Bosses",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowester",
+        "maxboss",
+        "maxkartos"
+      ],
+      "line_categories": [
+        "boss",
+        "transformation",
+        "kartos"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect All Hub Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowester",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "hub",
+        "rextro",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Open the 75 Pagie Door",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowester"
+      ],
+      "line_categories": [
+        "pagie",
+        "hub"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
       "goal": "Equip Tribalstack Tourist",
       "range": [],
       "individual_limit": 1,
@@ -845,7 +935,7 @@
       ],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "fast"
       ],
       "line_categories": [
         "collectible"
@@ -1743,16 +1833,17 @@
   ],
   "limits": {
     "board": {
-      "fastest": 8,
-      "faster": 10,
-      "fast": 22,
-      "medium": 45,
-      "slow": 25,
-      "slower": 15,
-      "slowest": 10,
+      "fastest": 4,
+      "faster": 8,
+      "fast": 4,
+      "medium": 35,
+      "slow": 35,
+      "slower": 16,
+      "slowest": 8,
       "maxkartos": 10,
       "maxrextro": 10,
-      "maxboss": 100
+      "maxboss": 100,
+      "slowester": 100
     },
     "line": {
       "hub": 25,
