@@ -3,6 +3,33 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "Collect 1 Kartos Pagie From Each World",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowester",
+        "maxkartos"
+      ],
+      "line_categories": [
+        "kartos"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 35 Pagies in Any Grand Tome World",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowester"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
       "goal": "Collect 15 Rextro Pagies",
       "range": [],
       "individual_limit": 1,
@@ -89,7 +116,7 @@
         "pagie",
         "hub"
       ],
-      "tooltip": "",
+      "tooltip": "Mark on the fadeout after skipping the cutscene",
       "icons": []
     },
     {
