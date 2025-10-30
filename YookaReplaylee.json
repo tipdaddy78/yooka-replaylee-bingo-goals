@@ -3,6 +3,87 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "Collect All Tribal Ghost Writers",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "faster"
+      ],
+      "line_categories": [
+        "tribal",
+        "ghost",
+        "pagie"
+      ],
+      "tooltip": "Triple Pagie NOT required.",
+      "icons": [],
+      "text_color": "#2bff00"
+    },
+    {
+      "goal": "Collect All Glitter Ghost Writers",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "ghost",
+        "glitter",
+        "pagie"
+      ],
+      "tooltip": "Triple Pagie NOT required.",
+      "icons": [],
+      "text_color": "#00f2ff"
+    },
+    {
+      "goal": "Collect All Moody Ghost Writers",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "ghost",
+        "moody",
+        "pagie"
+      ],
+      "tooltip": "Triple Pagie NOT required.",
+      "icons": [],
+      "text_color": "#a333ff"
+    },
+    {
+      "goal": "Collect All Cashino Ghost Writers",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "ghost",
+        "cashino",
+        "pagie"
+      ],
+      "tooltip": "Triple Pagie NOT required.",
+      "icons": [],
+      "text_color": "#ff9900"
+    },
+    {
+      "goal": "Collect All Galleon Ghost Writers",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "ghost",
+        "transformation",
+        "galleon",
+        "pagie"
+      ],
+      "tooltip": "Triple Pagie NOT required.",
+      "icons": [],
+      "text_color": "#fc329e"
+    },
+    {
       "goal": "Die using the Breathless Tonic",
       "range": [],
       "individual_limit": 1,
@@ -898,7 +979,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "fast"
+        "faster"
       ],
       "line_categories": [
         "pagie",
@@ -941,7 +1022,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slowest"
+        "slower"
       ],
       "line_categories": [
         "pagie",
@@ -955,7 +1036,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "medium"
       ],
       "line_categories": [
         "pagie",
@@ -1042,7 +1123,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "medium"
       ],
       "line_categories": [
         "pagie",
