@@ -3,6 +3,81 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "Collect 4 Pagie Pieces in Moody",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "pagie",
+        "pieces",
+        "moody"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 4 Pagie Pieces in Glitter",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "faster"
+      ],
+      "line_categories": [
+        "pagie",
+        "pieces",
+        "glitter"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 4 Pagie Pieces in Cashino",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "faster"
+      ],
+      "line_categories": [
+        "pagie",
+        "pieces",
+        "cashino"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 4 Pagie Pieces in Galleon",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "pagie",
+        "pieces",
+        "galleon"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 4 Pagie Pieces in Tribal",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "tribal",
+        "pagie",
+        "pieces"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
       "goal": "Collect 1 Kartos Pagie From Each World",
       "range": [],
       "individual_limit": 1,
@@ -344,7 +419,7 @@
       "individual_limit": 1,
       "board_categories": [
         "maxboss",
-        "slowest"
+        "slower"
       ],
       "line_categories": [
         "glitter",
@@ -474,7 +549,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slowest"
+        "slower"
       ],
       "line_categories": [
         "glitter",
@@ -843,7 +918,8 @@
       ],
       "line_categories": [
         "pagie",
-        "ghost"
+        "ghost",
+        "transformation"
       ],
       "tooltip": "",
       "icons": []
@@ -923,7 +999,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slowest"
+        "slower"
       ],
       "line_categories": [
         "collectible"
@@ -1734,7 +1810,8 @@
         "pagie"
       ],
       "tooltip": "Mark upon fadeout after skipping the cutscene",
-      "icons": []
+      "icons": [],
+      "disabled": true
     },
     {
       "goal": "Defeat a boss with Reaper Laylee equipped",
@@ -1838,8 +1915,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slower",
-        "maxboss"
+        "maxboss",
+        "slow"
       ],
       "line_categories": [
         "glitter",
