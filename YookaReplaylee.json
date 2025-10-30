@@ -390,13 +390,13 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "fast"
+        "slowest"
       ],
       "line_categories": [
         "purchase",
         "quids"
       ],
-      "tooltip": "Unlocked by speaking to hub Vendi",
+      "tooltip": "Unlocked with 50 Pagies",
       "icons": []
     },
     {
