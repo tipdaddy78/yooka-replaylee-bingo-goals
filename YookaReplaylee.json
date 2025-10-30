@@ -1945,15 +1945,15 @@
     "board": {
       "fastest": 4,
       "faster": 8,
-      "fast": 4,
+      "fast": 16,
       "medium": 35,
       "slow": 35,
       "slower": 16,
       "slowest": 8,
       "maxkartos": 10,
       "maxrextro": 10,
-      "maxboss": 100,
-      "slowester": 100
+      "maxboss": 40,
+      "slowester": 4
     },
     "line": {
       "hub": 25,
