@@ -3,6 +3,20 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "Die using the Breathless Tonic",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "purchase",
+        "quids"
+      ],
+      "tooltip": "Mark on the fadeout after the death. Unlocked with 10 Pagies.",
+      "icons": []
+    },
+    {
       "goal": "Collect 4 Pagie Pieces in Moody",
       "range": [],
       "individual_limit": 1,
@@ -15,7 +29,8 @@
         "moody"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#a333ff"
     },
     {
       "goal": "Collect 4 Pagie Pieces in Glitter",
@@ -30,7 +45,8 @@
         "glitter"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#00f2ff"
     },
     {
       "goal": "Collect 4 Pagie Pieces in Cashino",
@@ -45,7 +61,8 @@
         "cashino"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#ff9900"
     },
     {
       "goal": "Collect 4 Pagie Pieces in Galleon",
@@ -60,7 +77,8 @@
         "galleon"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#fc329e"
     },
     {
       "goal": "Collect 4 Pagie Pieces in Tribal",
@@ -75,7 +93,8 @@
         "pieces"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#2bff00"
     },
     {
       "goal": "Collect 1 Kartos Pagie From Each World",
@@ -178,7 +197,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#fff200"
     },
     {
       "goal": "Open the 75 Pagie Door",
@@ -192,7 +212,9 @@
         "hub"
       ],
       "tooltip": "Mark on the fadeout after skipping the cutscene",
-      "icons": []
+      "icons": [],
+      "disabled": true,
+      "text_color": "#fff200"
     },
     {
       "goal": "Equip Tribalstack Tourist",
@@ -207,7 +229,8 @@
         "quills"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#2bff00"
     },
     {
       "goal": "Equip Moodymaze Menace",
@@ -222,7 +245,8 @@
         "quills"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#a333ff"
     },
     {
       "goal": "Equip Lucky Suit (CC)",
@@ -237,7 +261,8 @@
         "quills"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#ff9900"
     },
     {
       "goal": "Equip Cosmic Captain (GGx)",
@@ -252,7 +277,8 @@
         "quills"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#fc329e"
     },
     {
       "goal": "Equip Icymetric Royalty",
@@ -267,7 +293,8 @@
         "quills"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#00f2ff"
     },
     {
       "goal": "Collect 3 Pagies from Trolleys",
@@ -281,7 +308,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#a333ff"
     },
     {
       "goal": "Collect 10 Tokens from Bandits",
@@ -295,7 +323,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#ff9900"
     },
     {
       "goal": "All Shipwreck Pagies",
@@ -309,7 +338,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#fff200"
     },
     {
       "goal": "Collect 30 Hub Pagies",
@@ -323,7 +353,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#fff200"
     },
     {
       "goal": "Collect 10 Hub Pagies",
@@ -337,7 +368,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#fff200"
     },
     {
       "goal": "Collect 10 Pagies in Galleon",
@@ -351,7 +383,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#fc329e"
     },
     {
       "goal": "Hand in a total of 80 Cashino Tokens",
@@ -365,7 +398,8 @@
         "cashino"
       ],
       "tooltip": "Mark upon the last token being converted to a Pagie",
-      "icons": []
+      "icons": [],
+      "text_color": "#ff9900"
     },
     {
       "goal": "Collect 15 Pagies in Moody",
@@ -379,7 +413,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#a333ff"
     },
     {
       "goal": "Collect 15 Pagies in Glitter",
@@ -393,7 +428,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#00f2ff"
     },
     {
       "goal": "Collect 20 Pagies in Tribal",
@@ -407,7 +443,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#2bff00"
     },
     {
       "goal": "Collect {{X}} Pagies in Icymetric Palace",
@@ -428,7 +465,8 @@
       ],
       "tooltip": "Breeze does count as 3 ",
       "icons": [],
-      "disabled": true
+      "disabled": true,
+      "text_color": "#00f2ff"
     },
     {
       "goal": "Equip the Inept Glasses",
@@ -443,7 +481,8 @@
         "quids"
       ],
       "tooltip": "Unlocked by speaking to the Proto Inept in Galleon",
-      "icons": []
+      "icons": [],
+      "text_color": "#fc329e"
     },
     {
       "goal": "Speak to Shovel Knight while wearing his Costume",
@@ -458,14 +497,15 @@
         "quids"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#2bff00"
     },
     {
       "goal": "Defeat an Enemy Using the Superhero Landing Tonic",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slowest"
+        "slowester"
       ],
       "line_categories": [
         "purchase",
@@ -486,20 +526,21 @@
         "galleon"
       ],
       "tooltip": "Mark upon the fadeout as you enter the book",
-      "icons": []
+      "icons": [],
+      "text_color": "#fc329e"
     },
     {
       "goal": "Die using the Fall Damage Tonic",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "fast"
       ],
       "line_categories": [
         "purchase",
         "quids"
       ],
-      "tooltip": "Mark on the fadeout after the death",
+      "tooltip": "Mark on the fadeout after the death. Unlocked with 5 Pagies.",
       "icons": []
     },
     {
@@ -514,7 +555,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#2bff00"
     },
     {
       "goal": "Collect any Hamalot Pagie",
@@ -542,7 +584,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#00f2ff"
     },
     {
       "goal": "Quiz Pagie",
@@ -557,17 +600,19 @@
         "boss"
       ],
       "tooltip": "Found in Icymetric Palace",
-      "icons": []
+      "icons": [],
+      "text_color": "#00f2ff"
     },
     {
-      "goal": "Hold on to 2000 Quids at once",
+      "goal": "Hold on to 3000 Quids at once",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slowest"
+        "slow"
       ],
       "line_categories": [
-        "quids"
+        "quids",
+        "purchase"
       ],
       "tooltip": "",
       "icons": []
@@ -671,7 +716,8 @@
         "quills"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#2bff00"
     },
     {
       "goal": "Purchase 2 Items using Glitter Quills",
@@ -686,7 +732,8 @@
         "glitter"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#00f2ff"
     },
     {
       "goal": "Purchase 2 Items using Moody Quills",
@@ -701,7 +748,8 @@
         "moody"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#a333ff"
     },
     {
       "goal": "Purchase 2 Items using Cashino Quills",
@@ -716,7 +764,8 @@
         "cashino"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#ff9900"
     },
     {
       "goal": "Purchase 2 Items using Galleon Quills",
@@ -731,7 +780,8 @@
         "galleon"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#fc329e"
     },
     {
       "goal": "Collect 200 Total Quills",
@@ -776,7 +826,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#fc329e"
     },
     {
       "goal": "Collect 5 Tokens from Slots as Helicopter Transformation",
@@ -791,7 +842,8 @@
         "transformation"
       ],
       "tooltip": "The breakable yellow slot machines",
-      "icons": []
+      "icons": [],
+      "text_color": "#ff9900"
     },
     {
       "goal": "Collect 2 Pagies from the Shoal Transformation",
@@ -806,7 +858,8 @@
         "moody"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#a333ff"
     },
     {
       "goal": "Collect 2 Pagies from Snow Plow Transformation",
@@ -821,7 +874,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#00f2ff"
     },
     {
       "goal": "Flower Transformation Pagie",
@@ -836,7 +890,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#2bff00"
     },
     {
       "goal": "Collect Any Triple Pagie from Ghosts",
@@ -922,7 +977,8 @@
         "transformation"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "shiny": false
     },
     {
       "goal": "Collect 3 Green Ghosts",
@@ -950,7 +1006,8 @@
         "ghost"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "shiny": false
     },
     {
       "goal": "Collect 3 Blue Ghosts",
@@ -1084,7 +1141,8 @@
         "pieces"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#fc329e"
     },
     {
       "goal": "Collect all Pagie Pieces in Cashino",
@@ -1099,7 +1157,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#ff9900"
     },
     {
       "goal": "Collect all Pagie Pieces in Moody",
@@ -1114,7 +1173,8 @@
         "pieces"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#a333ff"
     },
     {
       "goal": "Collect all Pagie Pieces in Glitter",
@@ -1129,7 +1189,8 @@
         "pieces"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#00f2ff"
     },
     {
       "goal": "Collect all Pagie Pieces in Tribal",
@@ -1144,7 +1205,8 @@
         "pieces"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#2bff00"
     },
     {
       "goal": "Collect 4 Pagies that each require a different Slurp Shot",
@@ -1170,7 +1232,8 @@
         "galleon"
       ],
       "tooltip": "Galleon has all of them. Flight/Shield/Battery/Heat/Heavy/Light",
-      "icons": []
+      "icons": [],
+      "text_color": "#fc329e"
     },
     {
       "goal": "Unlock all 7 Marks in Galleon",
@@ -1184,7 +1247,8 @@
         "mark"
       ],
       "tooltip": "Mark as soon as map closes after dialogue",
-      "icons": []
+      "icons": [],
+      "text_color": "#fc329e"
     },
     {
       "goal": "Unlock all 4 Marks in Cashino",
@@ -1198,7 +1262,8 @@
         "mark"
       ],
       "tooltip": "Mark as soon as map closes after dialogue",
-      "icons": []
+      "icons": [],
+      "text_color": "#ff9900"
     },
     {
       "goal": "Unlock all 6 Marks in Moody",
@@ -1212,7 +1277,8 @@
         "mark"
       ],
       "tooltip": "Mark as soon as map closes after dialogue",
-      "icons": []
+      "icons": [],
+      "text_color": "#a333ff"
     },
     {
       "goal": "Unlock all 5 Marks in Glitter",
@@ -1226,7 +1292,8 @@
         "mark"
       ],
       "tooltip": "Mark as soon as map closes after dialogue",
-      "icons": []
+      "icons": [],
+      "text_color": "#00f2ff"
     },
     {
       "goal": "Unlock all 7 Marks in Tribal",
@@ -1240,7 +1307,8 @@
         "mark"
       ],
       "tooltip": "Mark as soon as map closes after dialogue",
-      "icons": []
+      "icons": [],
+      "text_color": "#2bff00"
     },
     {
       "goal": "Unlock all 8 Marks in Hivory Towers",
@@ -1254,7 +1322,8 @@
         "mark"
       ],
       "tooltip": "Mark as soon as map closes after dialogue",
-      "icons": []
+      "icons": [],
+      "text_color": "#fff200"
     },
     {
       "goal": "Unlock Mark in Shipwreck",
@@ -1267,7 +1336,8 @@
         "hub"
       ],
       "tooltip": "Mark as soon as map closes after dialogue",
-      "icons": []
+      "icons": [],
+      "text_color": "#fff200"
     },
     {
       "goal": "Collect all 5 Play Coins",
@@ -1282,7 +1352,8 @@
         "boss"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "shiny": false
     },
     {
       "goal": "Collect a Play Coin",
@@ -1500,7 +1571,8 @@
         "pagie"
       ],
       "tooltip": "Mark on collecting the last of the three pagies",
-      "icons": []
+      "icons": [],
+      "text_color": "#fc329e"
     },
     {
       "goal": "Slowflow Tableau Gold Medal Pagie (CC)",
@@ -1516,7 +1588,8 @@
         "rextro"
       ],
       "tooltip": "Mark on collecting the last of the three pagies",
-      "icons": []
+      "icons": [],
+      "text_color": "#ff9900"
     },
     {
       "goal": "Pushy Palms Gold Medal Pagie (MM)",
@@ -1532,7 +1605,8 @@
         "pagie"
       ],
       "tooltip": "Mark on collecting the last of the three pagies",
-      "icons": []
+      "icons": [],
+      "text_color": "#a333ff"
     },
     {
       "goal": "Bite 'n Switch Blizzard Gold Medal Pagie (HT)",
@@ -1548,7 +1622,8 @@
         "pagie"
       ],
       "tooltip": "Mark on collecting the last of the three pagies",
-      "icons": []
+      "icons": [],
+      "text_color": "#fff200"
     },
     {
       "goal": "Hot-Hop-Hike Gold Medal Pagie (HT)",
@@ -1564,7 +1639,8 @@
         "pagie"
       ],
       "tooltip": "Mark on collecting the last of the three pagies",
-      "icons": []
+      "icons": [],
+      "text_color": "#fff200"
     },
     {
       "goal": "Dino-Soar Desert Gold Medal Pagie (HT)",
@@ -1580,7 +1656,8 @@
         "pagie"
       ],
       "tooltip": "Mark on collecting the last of the three pagies",
-      "icons": []
+      "icons": [],
+      "text_color": "#fff200"
     },
     {
       "goal": "Snipline Sands Gold Medal Pagie (GGG)",
@@ -1596,7 +1673,8 @@
         "rextro"
       ],
       "tooltip": "Mark on collecting the last of the three pagies",
-      "icons": []
+      "icons": [],
+      "text_color": "#00f2ff"
     },
     {
       "goal": "Jawsome Jungle Gold Medal Pagie (TT)",
@@ -1612,7 +1690,8 @@
         "rextro"
       ],
       "tooltip": "Mark on collecting the last of the three pagies",
-      "icons": []
+      "icons": [],
+      "text_color": "#2bff00"
     },
     {
       "goal": "Collect {{X}} Kartos Pagies",
@@ -1646,7 +1725,8 @@
         "kartos"
       ],
       "tooltip": "Mark on collecting the last of the three pagies",
-      "icons": []
+      "icons": [],
+      "text_color": "#fc329e"
     },
     {
       "goal": "Cashino Kartos Gold Medal Pagie",
@@ -1662,7 +1742,8 @@
         "pagie"
       ],
       "tooltip": "Mark on collecting the last of the three pagies",
-      "icons": []
+      "icons": [],
+      "text_color": "#ff9900"
     },
     {
       "goal": "Moody Kartos Gold Medal Pagie",
@@ -1678,7 +1759,8 @@
         "pagie"
       ],
       "tooltip": "Mark on collecting the last of the three pagies",
-      "icons": []
+      "icons": [],
+      "text_color": "#a333ff"
     },
     {
       "goal": "Glitter Kartos Gold Medal Pagie",
@@ -1694,7 +1776,8 @@
         "pagie"
       ],
       "tooltip": "Mark on collecting the last of the three pagies",
-      "icons": []
+      "icons": [],
+      "text_color": "#00f2ff"
     },
     {
       "goal": "Tribal Kartos Gold Medal Pagie",
@@ -1710,7 +1793,8 @@
         "pagie"
       ],
       "tooltip": "Mark on collecting the last of the three pagies",
-      "icons": []
+      "icons": [],
+      "text_color": "#2bff00"
     },
     {
       "goal": "Blasto and Blastooie Pagies",
@@ -1782,21 +1866,23 @@
         "hub"
       ],
       "tooltip": "Mark upon fadeout after skipping the cutscene",
-      "icons": []
+      "icons": [],
+      "text_color": "#fff200"
     },
     {
       "goal": "Open the 55 Pagie Door",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slowest"
+        "slowester"
       ],
       "line_categories": [
         "hub",
         "pagie"
       ],
       "tooltip": "Mark upon fadeout after skipping the cutscene",
-      "icons": []
+      "icons": [],
+      "text_color": "#fff200"
     },
     {
       "goal": "Open the 35 Pagie Door",
@@ -1811,7 +1897,8 @@
       ],
       "tooltip": "Mark upon fadeout after skipping the cutscene",
       "icons": [],
-      "disabled": true
+      "disabled": true,
+      "text_color": "#fff200"
     },
     {
       "goal": "Defeat a boss with Reaper Laylee equipped",
@@ -1841,7 +1928,8 @@
         "boss"
       ],
       "tooltip": "Mark the goal upon the pagie count ticking up",
-      "icons": []
+      "icons": [],
+      "text_color": "#fff200"
     },
     {
       "goal": "Collect {{X}} Clara Pagies",
@@ -1854,9 +1942,6 @@
         "fast"
       ],
       "line_categories": [
-        "tribal",
-        "glitter",
-        "moody",
         "pagie"
       ],
       "tooltip": "",
@@ -1876,7 +1961,8 @@
         "transformation"
       ],
       "tooltip": "You must pick up the triple pagie to consider the boss defeated ",
-      "icons": []
+      "icons": [],
+      "text_color": "#fc329e"
     },
     {
       "goal": "Defeat INEPT",
@@ -1893,7 +1979,8 @@
         "kartos"
       ],
       "tooltip": "You must pick up the triple pagie to consider the boss defeated ",
-      "icons": []
+      "icons": [],
+      "text_color": "#ff9900"
     },
     {
       "goal": "Defeat Trev",
@@ -1908,7 +1995,8 @@
         "boss"
       ],
       "tooltip": "You must pick up the triple pagie to consider the boss defeated ",
-      "icons": []
+      "icons": [],
+      "text_color": "#a333ff"
     },
     {
       "goal": "Defeat Breeze",
@@ -1923,7 +2011,8 @@
         "boss"
       ],
       "tooltip": "You must pick up the triple pagie to consider the boss defeated ",
-      "icons": []
+      "icons": [],
+      "text_color": "#00f2ff"
     },
     {
       "goal": "Defeat Rampo",
@@ -1938,7 +2027,8 @@
         "boss"
       ],
       "tooltip": "You must pick up the triple pagie to consider the boss defeated ",
-      "icons": []
+      "icons": [],
+      "text_color": "#2bff00"
     }
   ],
   "limits": {
@@ -1952,7 +2042,7 @@
       "slowest": 8,
       "maxkartos": 10,
       "maxrextro": 10,
-      "maxboss": 40,
+      "maxboss": 100,
       "slowester": 4
     },
     "line": {
