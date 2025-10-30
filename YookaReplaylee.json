@@ -3,16 +3,31 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "Collect Both Shovel Knight Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "tribal",
+        "galleon",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
       "goal": "Collect All Tribal Ghost Writers",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "faster"
+        "faster",
+        "maxghost"
       ],
       "line_categories": [
         "tribal",
-        "ghost",
-        "pagie"
+        "ghost"
       ],
       "tooltip": "Triple Pagie NOT required.",
       "icons": [],
@@ -23,12 +38,12 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "fast"
+        "fast",
+        "maxghost"
       ],
       "line_categories": [
         "ghost",
-        "glitter",
-        "pagie"
+        "glitter"
       ],
       "tooltip": "Triple Pagie NOT required.",
       "icons": [],
@@ -39,12 +54,12 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "fast"
+        "fast",
+        "maxghost"
       ],
       "line_categories": [
         "ghost",
-        "moody",
-        "pagie"
+        "moody"
       ],
       "tooltip": "Triple Pagie NOT required.",
       "icons": [],
@@ -55,12 +70,12 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "medium",
+        "maxghost"
       ],
       "line_categories": [
         "ghost",
-        "cashino",
-        "pagie"
+        "cashino"
       ],
       "tooltip": "Triple Pagie NOT required.",
       "icons": [],
@@ -71,13 +86,13 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "slow",
+        "maxghost"
       ],
       "line_categories": [
         "ghost",
         "transformation",
-        "galleon",
-        "pagie"
+        "galleon"
       ],
       "tooltip": "Triple Pagie NOT required.",
       "icons": [],
@@ -224,11 +239,12 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slowester"
+        "slowester",
+        "maxghost"
       ],
       "line_categories": [
         "ghost",
-        "pagie"
+        "transformation"
       ],
       "tooltip": "",
       "icons": []
@@ -382,7 +398,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "slow"
       ],
       "line_categories": [
         "moody",
@@ -397,7 +413,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "slow"
       ],
       "line_categories": [
         "cashino",
@@ -412,7 +428,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "slow"
       ],
       "line_categories": [
         "hub",
@@ -979,7 +995,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "faster"
+        "faster",
+        "maxghost"
       ],
       "line_categories": [
         "pagie",
@@ -993,10 +1010,10 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slowest"
+        "slowest",
+        "maxghost"
       ],
       "line_categories": [
-        "pagie",
         "ghost",
         "transformation"
       ],
@@ -1008,10 +1025,10 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "slow",
+        "maxghost"
       ],
       "line_categories": [
-        "pagie",
         "ghost"
       ],
       "tooltip": "",
@@ -1022,10 +1039,10 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slower"
+        "slower",
+        "maxghost"
       ],
       "line_categories": [
-        "pagie",
         "ghost"
       ],
       "tooltip": "",
@@ -1036,10 +1053,10 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "medium",
+        "maxghost"
       ],
       "line_categories": [
-        "pagie",
         "ghost"
       ],
       "tooltip": "",
@@ -1050,10 +1067,10 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slowest"
+        "slowest",
+        "maxghost"
       ],
       "line_categories": [
-        "pagie",
         "ghost",
         "transformation"
       ],
@@ -1066,10 +1083,10 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "slow",
+        "maxghost"
       ],
       "line_categories": [
-        "pagie",
         "ghost"
       ],
       "tooltip": "",
@@ -1080,10 +1097,10 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slowest"
+        "slowest",
+        "maxghost"
       ],
       "line_categories": [
-        "pagie",
         "ghost"
       ],
       "tooltip": "",
@@ -1095,10 +1112,10 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "slow",
+        "maxghost"
       ],
       "line_categories": [
-        "pagie",
         "ghost"
       ],
       "tooltip": "",
@@ -1109,10 +1126,10 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slowest"
+        "slowest",
+        "maxghost"
       ],
       "line_categories": [
-        "pagie",
         "ghost"
       ],
       "tooltip": "",
@@ -1123,10 +1140,10 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "medium",
+        "maxghost"
       ],
       "line_categories": [
-        "pagie",
         "ghost"
       ],
       "tooltip": "",
@@ -1321,7 +1338,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "medium"
       ],
       "line_categories": [
         "galleon",
@@ -1458,7 +1475,7 @@
       ],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "slow"
       ],
       "line_categories": [
         "pagie"
@@ -1474,7 +1491,7 @@
       ],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "slow"
       ],
       "line_categories": [
         "pagie",
@@ -1695,7 +1712,7 @@
       "individual_limit": 1,
       "board_categories": [
         "maxrextro",
-        "medium"
+        "slow"
       ],
       "line_categories": [
         "hub",
@@ -2117,14 +2134,15 @@
       "fastest": 4,
       "faster": 8,
       "fast": 16,
-      "medium": 35,
-      "slow": 35,
+      "medium": 30,
+      "slow": 30,
       "slower": 16,
       "slowest": 8,
       "maxkartos": 10,
       "maxrextro": 10,
-      "maxboss": 100,
-      "slowester": 4
+      "maxboss": 10,
+      "slowester": 4,
+      "maxghost": 15
     },
     "line": {
       "hub": 25,
@@ -2132,17 +2150,17 @@
       "glitter": 25,
       "moody": 25,
       "cashino": 25,
-      "galleon": 50,
+      "galleon": 25,
       "rextro": 25,
       "boss": 25,
       "kartos": 25,
-      "purchase": 50,
+      "purchase": 45,
       "transformation": 25,
       "quills": 25,
       "quids": 25,
       "pagie": 80,
-      "ghost": 50,
-      "collectible": 50,
+      "ghost": 45,
+      "collectible": 45,
       "mark": 25,
       "rgb": 25,
       "pieces": 25
