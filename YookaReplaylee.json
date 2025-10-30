@@ -335,12 +335,16 @@
       "icons": []
     },
     {
-      "goal": "Collect 6 Pagies in Icymetric Palace",
-      "range": [],
+      "goal": "Collect {{X}} Pagies in Icymetric Palace",
+      "range": [
+        6,
+        7,
+        8
+      ],
       "individual_limit": 1,
       "board_categories": [
-        "slower",
-        "maxboss"
+        "maxboss",
+        "slowest"
       ],
       "line_categories": [
         "glitter",
@@ -348,7 +352,8 @@
         "pagie"
       ],
       "tooltip": "Breeze does count as 3 ",
-      "icons": []
+      "icons": [],
+      "disabled": true
     },
     {
       "goal": "Equip the Inept Glasses",
@@ -469,11 +474,12 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slower"
+        "slowest"
       ],
       "line_categories": [
         "glitter",
-        "pagie"
+        "pagie",
+        "boss"
       ],
       "tooltip": "Found in Icymetric Palace",
       "icons": []
