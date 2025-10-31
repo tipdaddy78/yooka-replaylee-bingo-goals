@@ -3,6 +3,20 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "Collect 16 Pagie Pieces",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "pieces",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
       "goal": "Equip the Pirate Costume",
       "range": [],
       "individual_limit": 1,
@@ -99,22 +113,6 @@
       ],
       "tooltip": "",
       "icons": []
-    },
-    {
-      "goal": "Speak to the Outhouse with a Screen Filter Tonic Equipped",
-      "range": [],
-      "individual_limit": 1,
-      "board_categories": [
-        "slow"
-      ],
-      "line_categories": [
-        "galleon",
-        "purchase",
-        "quids"
-      ],
-      "tooltip": "",
-      "icons": [],
-      "text_color": "#fc329e"
     },
     {
       "goal": "Equip a Cosmetic in Each of the 4 Slots",
@@ -813,7 +811,7 @@
       "individual_limit": 1,
       "board_categories": [
         "maxboss",
-        "slower"
+        "slowest"
       ],
       "line_categories": [
         "glitter",
@@ -949,7 +947,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slower"
+        "slowest"
       ],
       "line_categories": [
         "glitter",
@@ -1011,21 +1009,6 @@
       ],
       "line_categories": [
         "purchase",
-        "quills"
-      ],
-      "tooltip": "",
-      "icons": []
-    },
-    {
-      "goal": "Purchase 3 Cosmetics ",
-      "range": [],
-      "individual_limit": 1,
-      "board_categories": [
-        "slower"
-      ],
-      "line_categories": [
-        "purchase",
-        "quids",
         "quills"
       ],
       "tooltip": "",
@@ -1143,20 +1126,17 @@
       "icons": []
     },
     {
-      "goal": "Collect {{X}} Pagies from Unique Transformations",
-      "range": [
-        2,
-        3
-      ],
+      "goal": "Collect 3 Pagies from Unique Transformations",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slower"
+        "slow"
       ],
       "line_categories": [
         "transformation",
         "pagie"
       ],
-      "tooltip": "Helicopter Tokens count only after you cash them in for the pagie",
+      "tooltip": "Helicopter Tokens from broken slots count only after you cash them in for the pagie",
       "icons": []
     },
     {
@@ -1412,14 +1392,11 @@
       "icons": []
     },
     {
-      "goal": "Collect {{X}} Mollycools",
-      "range": [
-        2,
-        3
-      ],
+      "goal": "Collect 3 Mollycools",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "fast"
+        "medium"
       ],
       "line_categories": [
         "collectible"
@@ -1441,14 +1418,11 @@
       "icons": []
     },
     {
-      "goal": "Collect {{X}} Pirate Treasures",
-      "range": [
-        2,
-        3
-      ],
+      "goal": "Collect 3 Pirate Treasures",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "fast"
+        "medium"
       ],
       "line_categories": [
         "collectible"
@@ -1457,16 +1431,11 @@
       "icons": []
     },
     {
-      "goal": "Collect {{X}} total Pagie Pieces",
-      "range": [
-        18,
-        20,
-        22,
-        24
-      ],
+      "goal": "Collect 32 Pagie Pieces",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slowest"
+        "slowester"
       ],
       "line_categories": [
         "pagie",
@@ -1844,12 +1813,8 @@
       "icons": []
     },
     {
-      "goal": "Collect {{X}} Kartos Pagies",
-      "range": [
-        4,
-        5,
-        6
-      ],
+      "goal": "Collect 4 Kartos Pagies",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
         "maxkartos",
@@ -1861,7 +1826,7 @@
       ],
       "tooltip": "",
       "icons": [],
-      "disabled": true
+      "disabled": false
     },
     {
       "goal": "Collect any Rextro Pagie",
@@ -2030,12 +1995,8 @@
       "text_color": "#2bff00"
     },
     {
-      "goal": "Collect {{X}} Kartos Pagies",
-      "range": [
-        7,
-        8,
-        9
-      ],
+      "goal": "Collect 7 Kartos Pagies",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
         "maxkartos",
@@ -2320,8 +2281,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow",
-        "maxboss"
+        "maxboss",
+        "slower"
       ],
       "line_categories": [
         "moody",
@@ -2337,7 +2298,7 @@
       "individual_limit": 1,
       "board_categories": [
         "maxboss",
-        "slow"
+        "slower"
       ],
       "line_categories": [
         "glitter",
