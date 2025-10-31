@@ -3,15 +3,202 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
-      "goal": "Collect 1 of Each Collectible on the Totals Screen",
+      "goal": "Collect 10 Tokens from Ball Maze",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
         "slow"
       ],
       "line_categories": [
-        "collectible",
+        "cashino",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect Both Pumping Plant Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "moody",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": [],
+      "text_color": "#a333ff"
+    },
+    {
+      "goal": "Collect 2 Golf Pagies",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Speak to the Outhouse with a Screen Filter Tonic Equipped",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "galleon",
+        "purchase",
+        "quids"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect the Glitter Flight Hoops Pagie",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "glitter",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Equip a Cosmetic in Each of the 4 Slots",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "purchase",
+        "quids"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 3 of Each Different Quill Colour",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "quills"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Open All Grand Tomes",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "hub"
+      ],
+      "tooltip": "Mark upon regaining control after the 5th tome",
+      "icons": []
+    },
+    {
+      "goal": "Collect Any Non-Ghost Sub-Area Pagie in Galleon",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "galleon",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": [],
+      "text_color": "#fc329e"
+    },
+    {
+      "goal": "Collect 1 Pagie from Transformation, Rextro, and Kartos",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest",
+        "maxkartos",
+        "maxrextro"
+      ],
+      "line_categories": [
+        "kartos",
+        "transformation",
+        "rextro",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Purchase All Costumes from Trowzer",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "purchase",
+        "quills"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect 9 Pagies from Each World and the Hub",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowester"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
+      "goal": "Collect a Different Ghost in Each World",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow",
+        "maxghost"
+      ],
+      "line_categories": [
         "ghost"
+      ],
+      "tooltip": "EG: Norm in Tribal, Evie in Glitter, FeeDee in Moody, AnnGree in Cashino, Heidi in Galleon",
+      "icons": []
+    },
+    {
+      "goal": "Collect 1 of Each Collectible on the Totals Screen",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "collectible",
+        "ghost",
+        "quills",
+        "pagie"
       ],
       "tooltip": "Pagie, Quill, Mollycool, Play Coin, Pirate Treasure, Each Ghost Colour",
       "icons": []
@@ -689,7 +876,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "faster"
       ],
       "line_categories": [
         "pagie"
@@ -744,20 +931,15 @@
       "icons": []
     },
     {
-      "goal": "Purchase {{X}} Tonics",
-      "range": [
-        3,
-        4,
-        5
-      ],
+      "goal": "Purchase 3 Tonics from Trowzer",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slowest"
+        "slower"
       ],
       "line_categories": [
         "purchase",
-        "quills",
-        "quids"
+        "quills"
       ],
       "tooltip": "",
       "icons": []
@@ -1353,7 +1535,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "medium"
       ],
       "line_categories": [
         "galleon"
@@ -1496,15 +1678,11 @@
       "icons": []
     },
     {
-      "goal": "Collect {{X}} Hoop Race Pagies",
-      "range": [
-        3,
-        4,
-        5
-      ],
+      "goal": "Collect 3 Hoop Race Pagies",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "medium"
       ],
       "line_categories": [
         "pagie"
@@ -1513,11 +1691,8 @@
       "icons": []
     },
     {
-      "goal": "Collect {{X}} Blue Ring Pagies",
-      "range": [
-        3,
-        4
-      ],
+      "goal": "Collect 4 Blue Ring Pagies",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
         "slow"
@@ -1527,7 +1702,8 @@
         "rgb"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "disabled": true
     },
     {
       "goal": "Collect {{X}} Green Coin Pagies",
@@ -1547,14 +1723,11 @@
       "icons": []
     },
     {
-      "goal": "Collect {{X}} Red Coin Pagies",
-      "range": [
-        4,
-        5
-      ],
+      "goal": "Collect 5 Red Coin Pagies",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "slow"
       ],
       "line_categories": [
         "pagie",
@@ -1759,7 +1932,7 @@
       "individual_limit": 1,
       "board_categories": [
         "maxrextro",
-        "medium"
+        "slow"
       ],
       "line_categories": [
         "hub",
@@ -1810,7 +1983,7 @@
       "individual_limit": 1,
       "board_categories": [
         "maxrextro",
-        "medium"
+        "slow"
       ],
       "line_categories": [
         "tribal",
@@ -2184,7 +2357,7 @@
       "rextro": 25,
       "boss": 25,
       "kartos": 25,
-      "purchase": 45,
+      "purchase": 25,
       "transformation": 25,
       "quills": 25,
       "quids": 25,
