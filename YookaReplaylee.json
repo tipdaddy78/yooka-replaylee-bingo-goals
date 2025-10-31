@@ -1545,11 +1545,12 @@
         "medium"
       ],
       "line_categories": [
-        "galleon"
+        "galleon",
+        "glitter"
       ],
-      "tooltip": "Galleon has all of them. Flight/Shield/Battery/Heat/Heavy/Light",
+      "tooltip": "Galleon has battery, Glitter has Heat. Both have light. Plus Flight/Heavy/Shield",
       "icons": [],
-      "text_color": "#fc329e"
+      "text_color": "#ffffff"
     },
     {
       "goal": "Unlock all 7 Marks in Galleon",
