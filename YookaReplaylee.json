@@ -3,33 +3,46 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
-      "goal": "Collect 10 Tokens from Ball Maze",
-      "range": [],
-      "individual_limit": 1,
-      "board_categories": [
-        "slow"
-      ],
-      "line_categories": [
-        "cashino",
-        "pagie"
-      ],
-      "tooltip": "",
-      "icons": []
-    },
-    {
-      "goal": "Collect Both Pumping Plant Pagies",
+      "goal": "Collect 2 Pagies from Blamphibians",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
         "medium"
       ],
       "line_categories": [
-        "moody",
+        "galleon",
         "pagie"
       ],
       "tooltip": "",
       "icons": [],
-      "text_color": "#a333ff"
+      "text_color": "#fc329e"
+    },
+    {
+      "goal": "Win 4 Fight Arenas ",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "Mark upon collecting the 4th reward. Fight arenas are any multi-enemy fight that spawns a reward.",
+      "icons": []
+    },
+    {
+      "goal": "Win 3 Slots",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fast"
+      ],
+      "line_categories": [
+        "cashino"
+      ],
+      "tooltip": "",
+      "icons": [],
+      "text_color": "#ff9900"
     },
     {
       "goal": "Collect 2 Golf Pagies",
@@ -57,21 +70,8 @@
         "quids"
       ],
       "tooltip": "",
-      "icons": []
-    },
-    {
-      "goal": "Collect the Glitter Flight Hoops Pagie",
-      "range": [],
-      "individual_limit": 1,
-      "board_categories": [
-        "medium"
-      ],
-      "line_categories": [
-        "glitter",
-        "pagie"
-      ],
-      "tooltip": "",
-      "icons": []
+      "icons": [],
+      "text_color": "#fc329e"
     },
     {
       "goal": "Equip a Cosmetic in Each of the 4 Slots",
@@ -945,11 +945,8 @@
       "icons": []
     },
     {
-      "goal": "Purchase {{X}} Health Extenders",
-      "range": [
-        2,
-        3
-      ],
+      "goal": "Purchase 3 Health Extenders",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
         "slower"
@@ -962,11 +959,8 @@
       "icons": []
     },
     {
-      "goal": "Purchase {{X}} Energy Extenders",
-      "range": [
-        2,
-        3
-      ],
+      "goal": "Purchase 3 Energy Extenders",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
         "slower"
@@ -1706,11 +1700,8 @@
       "disabled": true
     },
     {
-      "goal": "Collect {{X}} Green Coin Pagies",
-      "range": [
-        5,
-        6
-      ],
+      "goal": "Collect 5 Green Coin Pagies",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
         "fast"
@@ -2233,14 +2224,11 @@
       "text_color": "#fff200"
     },
     {
-      "goal": "Collect {{X}} Clara Pagies",
-      "range": [
-        2,
-        3
-      ],
+      "goal": "Collect 2 Clara Pagies",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "fast"
+        "medium"
       ],
       "line_categories": [
         "pagie"
