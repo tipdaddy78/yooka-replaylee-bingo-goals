@@ -3,6 +3,35 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "Collect 1 of Each Collectible on the Totals Screen",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "collectible",
+        "ghost"
+      ],
+      "tooltip": "Pagie, Quill, Mollycool, Play Coin, Pirate Treasure, Each Ghost Colour",
+      "icons": []
+    },
+    {
+      "goal": "Collect the Hardheaded Pagie (Above Trev)",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "fastest"
+      ],
+      "line_categories": [
+        "moody",
+        "pagie"
+      ],
+      "tooltip": "",
+      "icons": [],
+      "text_color": "#a333ff"
+    },
+    {
       "goal": "Collect Both Shovel Knight Pagies",
       "range": [],
       "individual_limit": 1,
@@ -1623,7 +1652,8 @@
         "pagie"
       ],
       "tooltip": "",
-      "icons": []
+      "icons": [],
+      "disabled": true
     },
     {
       "goal": "Collect any Rextro Pagie",
