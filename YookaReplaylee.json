@@ -3,6 +3,49 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "Equip the Pirate Costume",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slow"
+      ],
+      "line_categories": [
+        "purchase",
+        "quids"
+      ],
+      "tooltip": "Unlocked by collecting 20 Pagies.",
+      "icons": []
+    },
+    {
+      "goal": "Equip the Vendi Catwalk Costume",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "medium"
+      ],
+      "line_categories": [
+        "hub",
+        "purchase",
+        "quids"
+      ],
+      "tooltip": "Unlocked by kicking 1 Vendi plushie in each of the 3 Hubs.",
+      "icons": [],
+      "text_color": "#fff200"
+    },
+    {
+      "goal": "Collect 10 pagies from Sub-Areas",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest"
+      ],
+      "line_categories": [
+        "pagie"
+      ],
+      "tooltip": "A Sub-Area is anywhere not specifically shown on the map. Eg: Icymetric is but not Ice Cave Ghost Pedastal",
+      "icons": []
+    },
+    {
       "goal": "Collect 2 Pagies from Blamphibians",
       "range": [],
       "individual_limit": 1,
@@ -111,7 +154,8 @@
         "hub"
       ],
       "tooltip": "Mark upon regaining control after the 5th tome",
-      "icons": []
+      "icons": [],
+      "text_color": "#fff200"
     },
     {
       "goal": "Collect Any Non-Ghost Sub-Area Pagie in Galleon",
