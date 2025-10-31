@@ -276,7 +276,7 @@
       "icons": []
     },
     {
-      "goal": "All Tribal Ghosts",
+      "goal": "5 Tribal Ghosts",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -292,7 +292,7 @@
       "text_color": "#2bff00"
     },
     {
-      "goal": "All Glitter Ghosts",
+      "goal": "5 Glitter Ghosts",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -308,7 +308,7 @@
       "text_color": "#00f2ff"
     },
     {
-      "goal": "All Moody Ghosts",
+      "goal": "5 Moody Ghosts",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -324,7 +324,7 @@
       "text_color": "#a333ff"
     },
     {
-      "goal": "All Cashino Ghosts",
+      "goal": "5 Cashino Ghosts",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -340,7 +340,7 @@
       "text_color": "#ff9900"
     },
     {
-      "goal": "All Galleon Ghosts",
+      "goal": "5 Galleon Ghosts",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -493,7 +493,7 @@
       "icons": []
     },
     {
-      "goal": "All 25 Ghost Writers",
+      "goal": "25 Ghost Writers",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -539,7 +539,7 @@
       "icons": []
     },
     {
-      "goal": "All Hub Pagies",
+      "goal": "50 Hub Pagies",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -682,7 +682,7 @@
       "text_color": "#ff9900"
     },
     {
-      "goal": "All 4 Shipwreck Pagies",
+      "goal": "4 Shipwreck Pagies",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -927,7 +927,7 @@
       "icons": []
     },
     {
-      "goal": "All 5 Snowmen Pagies",
+      "goal": "5 Snowmen Pagies",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1172,7 +1172,7 @@
       "text_color": "#ff9900"
     },
     {
-      "goal": "2 Pagies from Shoal ",
+      "goal": "2 Shoal Pagies",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1183,12 +1183,12 @@
         "pagie",
         "moody"
       ],
-      "tooltip": "",
+      "tooltip": "The thorns pagie and inside the thorny pipe.",
       "icons": [],
       "text_color": "#a333ff"
     },
     {
-      "goal": "2 Pagies from Snow Plow",
+      "goal": "2 Snow Plow Pagies",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1199,7 +1199,7 @@
         "glitter",
         "pagie"
       ],
-      "tooltip": "Pagie Pieces do not count.",
+      "tooltip": "Pirate Hat and Red Coin Race. Pagie Pieces do not count.",
       "icons": [],
       "text_color": "#00f2ff"
     },
@@ -1235,7 +1235,7 @@
       "icons": []
     },
     {
-      "goal": "All Pink Ghosts",
+      "goal": "5 Fee-Dees",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1264,7 +1264,7 @@
       "icons": []
     },
     {
-      "goal": "All Yellow Ghosts",
+      "goal": "5 Norms",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1292,7 +1292,7 @@
       "icons": []
     },
     {
-      "goal": "All Green Ghosts",
+      "goal": "5 Green Ghosts",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1322,7 +1322,7 @@
       "icons": []
     },
     {
-      "goal": "All Blue Ghosts",
+      "goal": "5 Heidis",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1351,7 +1351,7 @@
       "icons": []
     },
     {
-      "goal": "All Red Ghosts",
+      "goal": "5 Ann-Grees",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1379,7 +1379,7 @@
       "icons": []
     },
     {
-      "goal": "All Mollycools",
+      "goal": "5 Mollycools",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1405,7 +1405,7 @@
       "icons": []
     },
     {
-      "goal": "All Pirate Treasures",
+      "goal": "5 Pirate Treasures",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1445,7 +1445,7 @@
       "icons": []
     },
     {
-      "goal": "All Galleon Pagie Pieces",
+      "goal": "8 Galleon Pagie Pieces",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1461,7 +1461,7 @@
       "text_color": "#fc329e"
     },
     {
-      "goal": "All Cashino Pagie Pieces",
+      "goal": "8 Cashino Pagie Pieces",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1477,7 +1477,7 @@
       "text_color": "#ff9900"
     },
     {
-      "goal": "All Moody Pagie Pieces",
+      "goal": "8 Moody Pagie Pieces",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1493,7 +1493,7 @@
       "text_color": "#a333ff"
     },
     {
-      "goal": "All Glitter Pagie Pieces",
+      "goal": "8 Glitter Pagie Pieces",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1509,7 +1509,7 @@
       "text_color": "#00f2ff"
     },
     {
-      "goal": "All Tribal Pagie Pieces",
+      "goal": "8 Tribal Pagie Pieces",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1553,7 +1553,7 @@
       "text_color": "#ffffff"
     },
     {
-      "goal": "Unlock all 7 Marks in Galleon",
+      "goal": "Wake 7 Galleon Marks",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1568,7 +1568,7 @@
       "text_color": "#fc329e"
     },
     {
-      "goal": "Unlock all 4 Marks in Cashino",
+      "goal": "Wake 4 Cashino Marks",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1583,7 +1583,7 @@
       "text_color": "#ff9900"
     },
     {
-      "goal": "Unlock all 6 Marks in Moody",
+      "goal": "Wake 6 Moody Marks",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1598,7 +1598,7 @@
       "text_color": "#a333ff"
     },
     {
-      "goal": "Unlock all 5 Marks in Glitter",
+      "goal": "Wake 5 Glitter Marks",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1613,7 +1613,7 @@
       "text_color": "#00f2ff"
     },
     {
-      "goal": "Unlock all 7 Marks in Tribal",
+      "goal": "Wake 7 Tribal Marks",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1628,7 +1628,7 @@
       "text_color": "#2bff00"
     },
     {
-      "goal": "Unlock all 8 Marks in Hivory Towers",
+      "goal": "Wake 8 Hub Marks",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1657,7 +1657,7 @@
       "text_color": "#fff200"
     },
     {
-      "goal": "All 5 Play Coins",
+      "goal": "5 Play Coins",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
