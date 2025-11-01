@@ -802,12 +802,8 @@
       "text_color": "#2bff00"
     },
     {
-      "goal": "{{X}} Pagies in Icymetric Palace",
-      "range": [
-        6,
-        7,
-        8
-      ],
+      "goal": "8 Pagies in Icymetric Palace",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
         "maxboss",
@@ -820,7 +816,7 @@
       ],
       "tooltip": "Breeze does count as 3, Pagie Pieces do not count",
       "icons": [],
-      "disabled": true,
+      "disabled": false,
       "text_color": "#00f2ff"
     },
     {
@@ -947,7 +943,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slowest"
+        "slowest",
+        "maxboss"
       ],
       "line_categories": [
         "glitter",
@@ -1015,11 +1012,8 @@
       "icons": []
     },
     {
-      "goal": "Equip {{X}} Tonics at once",
-      "range": [
-        3,
-        4
-      ],
+      "goal": "Equip 5 Tonics at once",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
         "slower"
@@ -1972,12 +1966,14 @@
       "individual_limit": 1,
       "board_categories": [
         "slowest",
-        "maxrextro"
+        "maxrextro",
+        "maxboss"
       ],
       "line_categories": [
         "glitter",
         "pagie",
-        "rextro"
+        "rextro",
+        "boss"
       ],
       "tooltip": "Mark on collecting the last of the three pagies",
       "icons": [],
