@@ -156,11 +156,11 @@
       "text_color": "#fff200"
     },
     {
-      "goal": "2 Non-Ghost Sub-Area Pagie in Galleon",
+      "goal": "3 Non-Ghost Sub-Area Pagie in Galleon",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "fast"
       ],
       "line_categories": [
         "galleon",
@@ -234,7 +234,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "fast"
       ],
       "line_categories": [
         "collectible",
@@ -1037,7 +1037,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "fast"
       ],
       "line_categories": [
         "tribal",
@@ -1053,7 +1053,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "fast"
       ],
       "line_categories": [
         "purchase",
@@ -1069,7 +1069,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "fast"
       ],
       "line_categories": [
         "purchase",
@@ -1085,7 +1085,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "medium"
       ],
       "line_categories": [
         "purchase",
@@ -1101,7 +1101,7 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slow"
+        "medium"
       ],
       "line_categories": [
         "purchase",
@@ -1250,7 +1250,7 @@
       "icons": []
     },
     {
-      "goal": "3 Pink Ghosts",
+      "goal": "3 Fee-Dees",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1278,7 +1278,7 @@
       "icons": []
     },
     {
-      "goal": "3 Yellow Ghosts",
+      "goal": "3 Norms",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1292,7 +1292,7 @@
       "icons": []
     },
     {
-      "goal": "5 Green Ghosts",
+      "goal": "5 Evies",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1308,7 +1308,7 @@
       "shiny": false
     },
     {
-      "goal": "3 Green Ghosts",
+      "goal": "3 Evies",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1337,7 +1337,7 @@
       "shiny": false
     },
     {
-      "goal": "3 Blue Ghosts",
+      "goal": "3 Heidis",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
@@ -1365,7 +1365,7 @@
       "icons": []
     },
     {
-      "goal": "3 Red Ghosts",
+      "goal": "3 Ann-Grees",
       "range": [],
       "individual_limit": 1,
       "board_categories": [
