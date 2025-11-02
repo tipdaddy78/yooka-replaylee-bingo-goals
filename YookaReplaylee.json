@@ -3,6 +3,20 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "10 Combined Mollycools, Pirate Treasures, or Play Coins",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "slowest",
+        "maxcollectible"
+      ],
+      "line_categories": [
+        "collectible"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
       "goal": "16 Pagie Pieces",
       "range": [],
       "individual_limit": 1,
@@ -234,7 +248,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "fast"
+        "fast",
+        "maxcollectible"
       ],
       "line_categories": [
         "collectible",
@@ -1377,7 +1392,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slower"
+        "slower",
+        "maxcollectible"
       ],
       "line_categories": [
         "collectible"
@@ -1390,7 +1406,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "medium",
+        "maxcollectible"
       ],
       "line_categories": [
         "collectible"
@@ -1403,7 +1420,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "slowest"
+        "slowest",
+        "maxcollectible"
       ],
       "line_categories": [
         "collectible"
@@ -1416,7 +1434,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "medium"
+        "medium",
+        "maxcollectible"
       ],
       "line_categories": [
         "collectible"
@@ -1656,7 +1675,8 @@
       "individual_limit": 1,
       "board_categories": [
         "slowest",
-        "maxboss"
+        "maxboss",
+        "maxcollectible"
       ],
       "line_categories": [
         "collectible",
@@ -1671,7 +1691,8 @@
       "range": [],
       "individual_limit": 1,
       "board_categories": [
-        "fastest"
+        "fastest",
+        "maxcollectible"
       ],
       "line_categories": [
         "collectible"
@@ -1796,11 +1817,8 @@
       "disabled": true
     },
     {
-      "goal": "Defeat {{X}} Bosses",
-      "range": [
-        2,
-        3
-      ],
+      "goal": "Defeat 3 Bosses",
+      "range": [],
       "individual_limit": 1,
       "board_categories": [
         "slowest",
@@ -2329,18 +2347,19 @@
   ],
   "limits": {
     "board": {
-      "fastest": 8,
+      "fastest": 4,
       "faster": 8,
       "fast": 16,
       "medium": 30,
       "slow": 30,
       "slower": 20,
-      "slowest": 12,
+      "slowest": 10,
       "maxkartos": 10,
       "maxrextro": 10,
-      "maxboss": 10,
+      "maxboss": 15,
       "slowester": 4,
-      "maxghost": 15
+      "maxghost": 15,
+      "maxcollectible": 10
     },
     "line": {
       "hub": 25,
@@ -2358,7 +2377,7 @@
       "quids": 25,
       "pagie": 80,
       "ghost": 45,
-      "collectible": 45,
+      "collectible": 25,
       "mark": 25,
       "rgb": 25,
       "pieces": 25
