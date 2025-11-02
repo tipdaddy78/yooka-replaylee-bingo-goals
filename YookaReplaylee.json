@@ -3,6 +3,20 @@
   "game": "YookaReplaylee",
   "objectives": [
     {
+      "goal": "5 Combined Mollycools, Pirate Treasures, or Play Coins",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "maxcollectible",
+        "medium"
+      ],
+      "line_categories": [
+        "collectible"
+      ],
+      "tooltip": "",
+      "icons": []
+    },
+    {
       "goal": "10 Combined Mollycools, Pirate Treasures, or Play Coins",
       "range": [],
       "individual_limit": 1,
